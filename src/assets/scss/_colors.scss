@@ -1,0 +1,39 @@
+$smoke: #fafafa;
+$light: #f5f5f5;
+$lightGrey: #eee;
+$muted: #aaa;
+$gray: #ddd;
+$grayDark: #343a40;
+$dark: #212529;
+
+// $secondary: #1e2139;
+// $primary: #5369f8;
+$primary: #6f42c1;
+$secondary: #323652;
+$info: #25c2e3;
+$warning: #ffbe0b;
+$success: #43d39e;
+$danger: #ff5c75;
+$indigo: #564ab1;
+$purple: #6f42c1;
+$pink: #e83e8c;
+$orange: #f77e53;
+$teal: #1ce1ac;
+$white: #fff;
+
+$softPrimary: rgba(83, 105, 248, 0.1);
+$softSecondary: rgba(30, 33, 57, 0.1);
+$softSuccess: rgba(67, 211, 158, 0.1);
+$softInfo: rgba(37, 194, 227, 0.1);
+$softWarning: rgba(255, 190, 11, 0.1);
+$softDanger: rgba(255, 92, 117, 0.1);
+$softLight: rgba(248, 249, 250, 0.1);
+$softDark: rgba(52, 58, 64, 0.1);
+$softTeal: #6cddb3;
+$softIndigo: #746dad;
+
+// APP
+$bodyColor : $white;
+$topbarColor : $smoke;
+$sidebarColor : linear-gradient(45deg, $secondary, $purple);
+$sidebarTextColor : $white;
